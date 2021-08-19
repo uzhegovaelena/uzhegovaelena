@@ -13,7 +13,6 @@ I'm Helen Uzhegova and I'm a Data Analyst. I'm from Russia. You can find me on  
   [![Seaborn](https://img.shields.io/badge/-Seaborn-FFFFFF?style=flat&logo=Seaborn&logoColor=white&link=https://github.com/anavh)](https://github.com/uzhegovaelena)
   [![Plotly](https://img.shields.io/badge/-Plotly-FFFFFF?style=flat&logo=Plotly&logoColor=white&link=https://github.com/anavh)](https://github.com/uzhegovaelena)<br/>
   ![Tableau](https://img.shields.io/badge/-Tableau-blue?style=flat&logo=PowerBI&logoColor=white&link=https://github.com/uzhegovaelena)
-  ![PowerBI](https://img.shields.io/badge/-PowerBI-yellow?style=flat&logo=PowerBI&logoColor=white&link=(https://github.com/uzhegovaelena))<br/>
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-green)<br/>
   ![Pycharm](https://img.icons8.com/color/28/000000/pycharm.png)
   ![Jupyter](https://img.shields.io/badge/-Jupyter-FFFFFF?style=flat&logo=Jupyter&logoColor=orange&link=https://github.com/elsaTH)
