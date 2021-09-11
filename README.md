@@ -23,12 +23,15 @@ I'm Helen Uzhegova and I'm a Data Analyst. I'm from Russia. You can find me on  
 [Online retail](https://github.com/uzhegovaelena/online-retail)<br/>
 [Cost in Canada](https://github.com/uzhegovaelena/tableau-costs-in-canada)
 
+### [My certificates](https://github.com/uzhegovaelena/mycertificates/blob/main/README.md)
+- Course by Anatoliy Karpov "Basics of Statistic"
+
+![Link](https://github.com/uzhegovaelena/mycertificates/blob/main/basics_of_statistics_stepic_certificate%20(1).png)
+
+
 ![Helena's GitHub stats](https://github-readme-stats.vercel.app/api?username=uzhegovaelena&theme=synthwave&show_icons=true&count_private=true "Helena's’ GutHub Stats")
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uzhegovaelena&theme=synthwave "Helena's’ Top Languages Card")
 <!--
-
-### [My certificates](https://github.com/uzhegovaelena/mycertificates/blob/main/README.md)
-[Course by Anatoliy Karpov "Basics of Statistic"](https://github.com/uzhegovaelena/mycertificates/blob/main/basics%20of%20statistics_stepik-certificate.pdf)
 
 **uzhegovaelena/uzhegovaelena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
