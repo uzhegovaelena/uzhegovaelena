@@ -10,10 +10,10 @@ I'm Helen Uzhegova and I'm a Data Analyst. I'm from Russia. You can find me on  
   ![Matplotlib](https://img.shields.io/badge/-Matplotlib-green)
   [![Plotly](https://img.shields.io/badge/-Plotly-FFFFFF?style=flat&logo=Plotly&logoColor=green&link=https://github.com/anavh)](https://github.com/uzhegovaelena)
   ![Pycharm](https://img.icons8.com/color/28/000000/pycharm.png)
-  ![Jupyter](https://img.shields.io/badge/-Jupyter-FFFFFF?style=flat&logo=Jupyter&logoColor=orange&link=https://github.com/elsaTH)<br/>
-  ![Tableau](https://img.shields.io/badge/-Tableau-white?style=flat&logo=Tableau&logoColor=black)
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-white?style=flat&logo=postgresql)<br/>
+  ![Jupyter](https://img.shields.io/badge/-Jupyter-FFFFFF?style=flat&logo=Jupyter&logoColor=orange&link=https://github.com/elsaTH)
+  ![Tableau](https://img.shields.io/badge/-Tableau-white?style=flat&logo=Tableau&logoColor=black)<br/>
   ![Django](https://img.icons8.com/ios/42/000000/django.png)
+  ![PostgreSQL](https://img.icons8.com/color/32/000000/postgreesql.png)
   ![GIT](https://img.icons8.com/color/32/000000/git.png)<br/>
   
 <!--   [![Numpy](https://img.shields.io/badge/-Numpy-FFFFFF?style=flat&logo=Numpy&logoColor=blue&link=https://github.com/elsaTH)](https://github.com/uzhegovaelena) -->
