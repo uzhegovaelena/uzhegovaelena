@@ -27,6 +27,8 @@ I'm Helen Uzhegova and I'm a Data Analyst. I'm from Russia. You can find me on  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uzhegovaelena&theme=synthwave "Helena's’ Top Languages Card")
 <!--
 
+### [My certificates](https://github.com/uzhegovaelena/mycertificates/blob/main/README.md)
+[Course by Anatoliy Karpov "Basics of Statistic"](https://github.com/uzhegovaelena/mycertificates/blob/main/basics%20of%20statistics_stepik-certificate.pdf)
 
 **uzhegovaelena/uzhegovaelena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
