@@ -28,7 +28,7 @@ I'm Helen Uzhegova and I'm a Data Analyst. I'm from Russia. You can find me on  
 [Cost in Canada](https://github.com/uzhegovaelena/tableau-costs-in-canada)
 
 ### [My certificates](https://github.com/uzhegovaelena/mycertificates/blob/main/README.md)
-- Course by Anatoliy Karpov "Basics of Statistic"
+- Course by Anatoliy Karpov "Basics of Statistics"
 
 ![Link](https://github.com/uzhegovaelena/mycertificates/blob/main/basics_of_statistics_stepic_certificate%20(1).png)
 
