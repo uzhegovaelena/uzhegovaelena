@@ -14,7 +14,8 @@ I'm Helen Uzhegova and I'm a Data Analyst. I'm from Russia. You can find me on  
   ![Tableau](https://img.shields.io/badge/-Tableau-white?style=flat&logo=Tableau&logoColor=black)<br/>
   ![Django](https://img.icons8.com/ios/42/000000/django.png)
   ![PostgreSQL](https://img.icons8.com/color/32/000000/postgreesql.png)
-  ![GIT](https://img.icons8.com/color/32/000000/git.png)<br/>
+  ![GIT](https://img.icons8.com/color/32/000000/git.png)
+  ![Insomnia](https://img.shields.io/badge/-Insomnia-blueviolet?style=flat&logo=insomnia)<br/>
   
 <!--   [![Numpy](https://img.shields.io/badge/-Numpy-FFFFFF?style=flat&logo=Numpy&logoColor=blue&link=https://github.com/elsaTH)](https://github.com/uzhegovaelena) -->
 <!--   [![Sklearn](https://img.shields.io/badge/-Sklearn-FFFFFF?style=flat&logo=sklearn&link=https://github.com/elsaTH)](https://github.com/uzhegovaelena) -->
