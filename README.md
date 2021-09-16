@@ -24,6 +24,10 @@ I'm Helen Uzhegova. I'm from Russia. You can find me on  <a href="https://www.li
   
 <!--   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-FFFFFF?style=flat&logo=visual-studio-code&logoColor=007ACC) -->
 
+
+### My projects with Django
+[Books API](https://github.com/uzhegovaelena/books-api)<br/>
+
 ### My projects with Python, Pandas, Plotly and Tableau
 [Online retail](https://github.com/uzhegovaelena/online-retail)<br/>
 [Cost in Canada](https://github.com/uzhegovaelena/tableau-costs-in-canada)
