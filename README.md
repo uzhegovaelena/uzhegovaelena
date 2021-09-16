@@ -27,6 +27,7 @@ I'm Helen Uzhegova. I'm from Russia. You can find me on  <a href="https://www.li
 
 ### My projects with Django
 [Books API](https://github.com/uzhegovaelena/books-api)<br/>
+[Todo API](https://github.com/uzhegovaelena/todo-api)<br/>
 
 ### My projects with Python, Pandas, Plotly and Tableau
 [Online retail](https://github.com/uzhegovaelena/online-retail)<br/>
