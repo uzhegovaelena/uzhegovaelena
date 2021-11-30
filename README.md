@@ -43,9 +43,10 @@ I'm Helen Uzhegova. I'm from Russia. You can find me on  <a href="https://www.li
 ![Link](https://github.com/uzhegovaelena/mycertificates/blob/main/basics_of_statistics_stepic_certificate%20(1).png)
 
 
-![Helena's GitHub stats](https://github-readme-stats.vercel.app/api?username=uzhegovaelena&theme=synthwave&show_icons=true&count_private=true "Helena's’ GutHub Stats")
+<!--  ![Helena's GitHub stats](https://github-readme-stats.vercel.app/api?username=uzhegovaelena&theme=synthwave&show_icons=true&count_private=true "Helena's’ GutHub Stats")
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uzhegovaelena&theme=synthwave "Helena's’ Top Languages Card")
 <!--
+
 
 **uzhegovaelena/uzhegovaelena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
