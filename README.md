@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there
 I'm Helen. I live in Vilnius, Lithuania. You can find me on  <a href="https://www.linkedin.com/in/uzhegovaelena"> ![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>
 
 </br>
