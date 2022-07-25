@@ -1,5 +1,5 @@
 ### Hi there!
-I'm Helen. I from Russia. I live in Vilnius, Lithuania. You can find me on  <a href="https://www.linkedin.com/in/uzhegovaelena"> ![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>
+I'm Helen. I live in Vilnius, Lithuania. You can find me on  <a href="https://www.linkedin.com/in/uzhegovaelena"> ![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a> and <a href="https://public.tableau.com/app/profile/lenauzhegova"> ![alt text](https://img.shields.io/badge/-Tableau-0e76a8?style=plastic&logo=Tableau)</a>
 
 <!-- </br>
 <h3 align = "left"> Languages and Tools </h2>
@@ -40,7 +40,18 @@ I'm Helen. I from Russia. I live in Vilnius, Lithuania. You can find me on  <a h
 ### My certificates
 - Course by Anatoliy Karpov ["Basics of Statistics"](https://github.com/uzhegovaelena/mycertificates/blob/main/README.md)
 
-![Link](https://github.com/uzhegovaelena/mycertificates/blob/main/basics_of_statistics_stepic_certificate%20(1).png)
+<img src="https://github.com/uzhegovaelena/mycertificates/blob/main/basics_of_statistics_stepic_certificate.png" alt="" width="300"/>
+
+- Course [Data analyst at Brainest](https://github.com/uzhegovaelena/mycertificates/blob/main/Elena%20Uzhegova%20Data%20Analyst%20Certificate.pdf)
+
+
+<img src="https://github.com/uzhegovaelena/mycertificates/blob/main/Elena%20Uzhegova%20Data%20Analyst%20Certificate.png" alt="" width="300"/>
+
+### My visualizations in Tableau
+- [Netflix Movies and TV Shows analysis](https://public.tableau.com/app/profile/lenauzhegova/viz/NetflixMoviesandTVShowsanalysis/Story2)
+- [Cryptocurrency analysis](https://public.tableau.com/app/profile/lenauzhegova/viz/Cryptocurrencyanalysis_16585057399230/Story1)
+- [Superstore Sales analysis](https://public.tableau.com/app/profile/lenauzhegova/viz/Superstore_analysis_16582342358510/EXECUTIVESALES2)
+- [NFT Collections Analysis](https://public.tableau.com/app/profile/lenauzhegova/viz/NFTCollectionsAnalysis_16584223465480/Dashboard1)
 
 
 <!--  ![Helena's GitHub stats](https://github-readme-stats.vercel.app/api?username=uzhegovaelena&theme=synthwave&show_icons=true&count_private=true "Helena's’ GutHub Stats")
