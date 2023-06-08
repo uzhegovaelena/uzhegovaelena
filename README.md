@@ -38,7 +38,7 @@ I'm Helen. I live in London. You can find me on  <a href="https://www.linkedin.c
 [Cost in Canada](https://github.com/uzhegovaelena/tableau-costs-in-canada) -->
 
 ### These are my latest projects
-Stack: Python, SQL, Looker Studio. 
+Stack: Python, SQL, Bigquery, Looker Studio. 
 - [E-commerce analysis](https://github.com/uzhegovaelena/ecommerce_analysis)
 - [Risk analysis](https://github.com/uzhegovaelena/riskanalysis)
 
