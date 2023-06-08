@@ -1,5 +1,5 @@
 ### Hi there!
-I'm Helen. I live in Vilnius, Lithuania. You can find me on  <a href="https://www.linkedin.com/in/uzhegovaelena"> ![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a> and <a href="https://public.tableau.com/app/profile/lenauzhegova"> ![alt text](https://img.shields.io/badge/-Tableau-0e76a8?style=plastic&logo=Tableau)</a>
+I'm Helen. I live in London. You can find me on  <a href="https://www.linkedin.com/in/uzhegovaelena"> ![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a> and <a href="https://public.tableau.com/app/profile/lenauzhegova"> ![alt text](https://img.shields.io/badge/-Tableau-0e76a8?style=plastic&logo=Tableau)</a>
 
 <!-- </br>
 <h3 align = "left"> Languages and Tools </h2>
@@ -37,24 +37,21 @@ I'm Helen. I live in Vilnius, Lithuania. You can find me on  <a href="https://ww
 [Online retail](https://github.com/uzhegovaelena/online-retail)<br/>
 [Cost in Canada](https://github.com/uzhegovaelena/tableau-costs-in-canada) -->
 
-### My certificates
-- Course by Anatoliy Karpov ["Basics of Statistics"](https://github.com/uzhegovaelena/mycertificates/blob/main/README.md)
+### These are my latest projects
+Stack: Python, SQL, Looker Studio. 
+- [E-commerce analysis](https://github.com/uzhegovaelena/ecommerce_analysis)
+- [Risk analysis](https://github.com/uzhegovaelena/riskanalysis)
 
-<img src="https://github.com/uzhegovaelena/mycertificates/blob/main/basics_of_statistics_stepic_certificate.png" alt="" width="300"/>
-
-- Course [Data analyst at Brainnest](https://github.com/uzhegovaelena/mycertificates/blob/main/Elena%20Uzhegova%20Data%20Analyst%20Certificate.pdf)
-<img src="https://github.com/uzhegovaelena/mycertificates/blob/main/Elena%20Uzhegova%20Data%20Analyst%20Certificate.png" alt="" width="300"/>
-
-- Course [“Azure Spark Databricks Essential Training”](https://www.linkedin.com/learning/certificates/354c95a69108e5012ea51a52cd2a6212847658f07fdad36c0130460ef376d49f) on LinkedIn
-<img src="https://github.com/uzhegovaelena/mycertificates/blob/main/CertificateOfCompletion_Azure%20Spark%20Databricks%20Essential%20Training%201.png" alt="" width="300"/>
-
-
-
-### My visualizations in Tableau
+### Dashboards in Tableau
 - [Netflix Movies and TV Shows analysis](https://public.tableau.com/app/profile/lenauzhegova/viz/NetflixMoviesandTVShowsanalysis/Story2)
 - [Cryptocurrency analysis](https://public.tableau.com/app/profile/lenauzhegova/viz/Cryptocurrencyanalysis_16585057399230/Story1)
 - [Superstore Sales analysis](https://public.tableau.com/app/profile/lenauzhegova/viz/Superstore_analysis_16582342358510/EXECUTIVESALES2)
 - [NFT Collections Analysis](https://public.tableau.com/app/profile/lenauzhegova/viz/NFTCollectionsAnalysis_16584223465480/Dashboard1)
+
+### [Certificates](https://github.com/uzhegovaelena/mycertificates/blob/main/README.md)
+- Statistics
+- Data Analytics
+- Azure Spark Databricks
 
 
 <!--  ![Helena's GitHub stats](https://github-readme-stats.vercel.app/api?username=uzhegovaelena&theme=synthwave&show_icons=true&count_private=true "Helena's’ GutHub Stats")
