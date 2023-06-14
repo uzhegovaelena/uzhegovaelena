@@ -39,7 +39,7 @@ I'm Helen. I live in London. You can find me on  <a href="https://www.linkedin.c
 
 ### These are my latest projects
 Stack: Python, SQL, Bigquery, Looker Studio. 
-- [E-commerce analysis](https://github.com/uzhegovaelena/ecommerce_analysis) using Looker Studio for visualisation. 
+- [E-commerce analysis](https://github.com/uzhegovaelena/ecommerce_analysis) using Looker Studio for visualisation and Python. 
 - [Risk analysis](https://github.com/uzhegovaelena/riskanalysis) using Basel frameworks and logistic regression model. 
 - [Classification task](https://github.com/uzhegovaelena/classification-tasks) using Decision tree and KNN models. 
 
