@@ -37,7 +37,11 @@ I'm Helen. I live in London. You can find me on  <a href="https://www.linkedin.c
 [Online retail](https://github.com/uzhegovaelena/online-retail)<br/>
 [Cost in Canada](https://github.com/uzhegovaelena/tableau-costs-in-canada) -->
 
-### These are my latest projects
+### These are my latest engineering projects
+Stack: Python, aiohttp, Django
+- [App API using python and aiohttp](https://github.com/uzhegovaelena/recipes-project)
+- [App API using Python and Django](https://github.com/uzhegovaelena/books-api)
+### These are my latest data analytics projects
 Stack: Python, SQL, Bigquery, Looker Studio. 
 - [E-commerce analysis](https://github.com/uzhegovaelena/ecommerce_analysis) using Looker Studio for visualisation and Python. 
 - [Risk analysis](https://github.com/uzhegovaelena/riskanalysis) using Basel frameworks and logistic regression model. 
